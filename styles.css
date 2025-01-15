@@ -8,6 +8,8 @@ button {
     padding: 4px 8px;
     &:hover {
         cursor: pointer;
+        background-color: rgb(40, 40, 40);
+        font-weight: 700;
     }
 }
 
